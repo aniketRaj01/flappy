@@ -1,3 +1,5 @@
+alert('use your up arrow key')
+
 var cvs = document.getElementById("canvas");
 
 var ctx = cvs.getContext("2d");
